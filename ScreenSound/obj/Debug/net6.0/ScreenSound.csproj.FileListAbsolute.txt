@@ -1,0 +1,15 @@
+C:\Desenvolvimento\Cursos\API LINQ\ScreenSound\bin\Debug\net6.0\ScreenSound.exe
+C:\Desenvolvimento\Cursos\API LINQ\ScreenSound\bin\Debug\net6.0\ScreenSound.deps.json
+C:\Desenvolvimento\Cursos\API LINQ\ScreenSound\bin\Debug\net6.0\ScreenSound.runtimeconfig.json
+C:\Desenvolvimento\Cursos\API LINQ\ScreenSound\bin\Debug\net6.0\ScreenSound.dll
+C:\Desenvolvimento\Cursos\API LINQ\ScreenSound\bin\Debug\net6.0\ScreenSound.pdb
+C:\Desenvolvimento\Cursos\API LINQ\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.AssemblyReference.cache
+C:\Desenvolvimento\Cursos\API LINQ\ScreenSound\obj\Debug\net6.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\Cursos\API LINQ\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfoInputs.cache
+C:\Desenvolvimento\Cursos\API LINQ\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfo.cs
+C:\Desenvolvimento\Cursos\API LINQ\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Cursos\API LINQ\ScreenSound\obj\Debug\net6.0\ScreenSound.dll
+C:\Desenvolvimento\Cursos\API LINQ\ScreenSound\obj\Debug\net6.0\refint\ScreenSound.dll
+C:\Desenvolvimento\Cursos\API LINQ\ScreenSound\obj\Debug\net6.0\ScreenSound.pdb
+C:\Desenvolvimento\Cursos\API LINQ\ScreenSound\obj\Debug\net6.0\ScreenSound.genruntimeconfig.cache
+C:\Desenvolvimento\Cursos\API LINQ\ScreenSound\obj\Debug\net6.0\ref\ScreenSound.dll
